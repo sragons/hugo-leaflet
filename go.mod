@@ -1,3 +1,3 @@
-module github.com/okainov/hugo-leaflet.git
+module github.com/okainov/hugo-leaflet
 
 go 1.21.1
